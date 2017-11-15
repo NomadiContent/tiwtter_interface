@@ -247,6 +247,10 @@ body {
   color: #666;
 }
 
+.thing {
+  color: red;
+}
+
 /* line 6, ../sass/circle/core/_layout.sass */
 .bounds {
   max-width: 100%;
